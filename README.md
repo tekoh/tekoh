@@ -1,6 +1,4 @@
-# hi
-
-lowercase is way better than uppercase
+##### lowercase > all
 
 ### 🍪 things i do
 [`[nypsi]`](https://github.com/tekoh/nypsi) ~ [`[nypsi-website]`](https://github.com/tekoh/nypsi-website) ~ [`[tekoh.github.io]`](https://github.com/tekoh/tekoh.github.io)
