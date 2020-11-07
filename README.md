@@ -6,7 +6,3 @@
 ### 🍒 contact
  - [`[max#0777]`](https://discord.gg/hJTDNST)
  - [`[@xdtekoh]`](https://twitter.com/xdtekoh)
-
-#### 🐟 also my powershell has a whale called boob
-<img src="https://i.imgur.com/XrThOHL.png">
-<br>hes so cute
